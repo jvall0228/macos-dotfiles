@@ -1,4 +1,5 @@
 appcleaner
+chatgpt
 cleanshot
 discord
 docker
