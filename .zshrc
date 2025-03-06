@@ -3,6 +3,9 @@ if [[ -a ~/.config/.shellrc ]]; then
     source ~/.config/.shellrc
 fi
 
+#starship
+eval "$(starship init zsh)"
+
 #homebrew
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
