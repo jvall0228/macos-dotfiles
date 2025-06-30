@@ -1,6 +1,5 @@
 aom
 aribb24
-borders
 brotli
 c-ares
 ca-certificates
@@ -110,8 +109,6 @@ ripgrep
 rubberband
 sdl2
 shared-mime-info
-sketchybar
-skhd
 snappy
 speex
 speexdsp
@@ -133,7 +130,6 @@ x265
 xorgproto
 xvid
 xz
-yabai
 zeromq
 zimg
 zstd

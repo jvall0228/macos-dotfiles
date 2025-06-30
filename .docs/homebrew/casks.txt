@@ -10,7 +10,6 @@ google-chrome
 karabiner-elements
 kitty
 obsidian
-raycast
 slack
 telegram
 ticktick
